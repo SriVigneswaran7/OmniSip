@@ -7,9 +7,11 @@
 
 > **Engineered for Adaptability.** An industrial design case study for a multi-functional drinkware solution featuring custom modular attachments and an eco-conscious material framework.
 
-| Fully Assembled OmniSip Travel Mug |
-| :---: |
-| ![OmniSip Assembled](assets/hero-assembled.png) |
+<div align="center">
+  <img src="assets/hero-assembled.png" alt="OmniSip Assembled">
+  <br>
+  <em>Fully Assembled OmniSip Travel Mug</em>
+</div>
 
 ---
 
@@ -28,25 +30,31 @@ The current consumer market offers a wide range of travel mugs, but the vast maj
 
 From a business perspective, the opportunity to disrupt this space is massive. The global thermos drinkware market size was estimated at USD 3.09 billion in 2024 and is expected to grow at a Compound Annual Growth Rate (CAGR) of 6.7% from 2025 to 2030.
 
-| User Empathy Map and Target Audience Analysis |
-| :---: |
-| ![Empathy Map](assets/empathy-map.png) |
+<div align="center">
+  <img src="assets/empathy-map.png" alt="Empathy Map">
+  <br>
+  <em>User Empathy Map and Target Audience Analysis</em>
+</div>
 
 ---
 
 ## 3. Modular Architecture & Component Engineering
 The travel mug's modular architecture includes several practical and highly efficient features meticulously designed to streamline the user's daily carry and reduce the need to juggle multiple standalone items.
 
-| Exploded View of Modular Components |
-| :---: |
-| ![Exploded View](assets/exploded-modularity.png) |
+<div align="center">
+  <img src="assets/exploded-modularity.png" alt="Exploded View">
+  <br>
+  <em>Exploded View of Modular Components</em>
+</div>
 
 ### Detachable Snack Compartment
 The dimensions of the upper compartment are precisely 50 mm in diameter and 30 mm in height. This volumetric dimension is optimised for carrying small snacks for energy during travel. This compartment fits directly into the primary lid of the mug and is securely locked via a custom snap-fit mechanism. This provides accessible, on-the-go storage without compromising the mug's core aerodynamic profile.
 
-| Detachable Snack Compartment Detail |
-| :---: |
-| ![Snack Compartment](assets/snack-compartment.png) |
+<div align="center">
+  <img src="assets/snack-compartment.png" alt="Snack Compartment">
+  <br>
+  <em>Detachable Snack Compartment Detail</em>
+</div>
 
 ### Snap-Fit Handle Mechanism
 The external handle is 130 mm long and 30 mm thick, making it proportional to the overall dimensions of the mug to ensure ergonomic weight distribution. The handle features a C-shaped hook that aligns with two specific openings on the stainless steel rim of the primary vessel. The handle's hook compresses slightly as it enters the primary openings and then snaps firmly back into place, ensuring a rigid, secure fit that prevents accidental detachment.
@@ -59,27 +67,33 @@ A designated L-shaped opening in the outer rim creates dedicated space for key s
 ## 4. Material Science & Life Cycle Analysis (LCA)
 Crafted from highly sustainable materials, the OmniSip design actively prioritises eco-friendliness. The careful selection of these materials directly supports a closed-loop life cycle, reducing waste from manufacturing through to the product's end of life.
 
-| Circular Life Cycle Analysis (LCA) |
-| :---: |
-| ![Life Cycle Analysis](assets/lca.png) |
+<div align="center">
+  <img src="assets/lca.png" alt="Life Cycle Analysis">
+  <br>
+  <em>Circular Life Cycle Analysis (LCA)</em>
+</div>
 
 * **Body & Internal Framework (316 Stainless Steel):** The primary material chosen for the vessel is 316 stainless steel. This specific grade is highly durable, resistant to corrosion, and maintains structural integrity over long periods. The precise dimensions of the main mug body are 200 mm in length and 76 mm in width.
 * **Modular Handle (Bio-Based Polypropylene):** The handle utilises Bio-Based Propylene, which is derived from renewable plant-based sources such as sugarcane or corn, rather than traditional fossil fuels. This significantly reduces the carbon footprint of the product. Furthermore, polypropylene offers exceptional flexibility and resistance to fatigue, ensuring the snap-fit mechanism remains reliable over thousands of cycles.
 * **Snack Storage (Aluminium):** Because the primary requirement for the top compartment is a high strength-to-weight ratio, aluminium was selected as the ideal material. It provides a natural barrier to moisture, keeping stored snacks fresh without adding significant physical weight to the top of the mug.
 * **Airtight Seals (Silicone Rubber):** The bottom section of the primary lid measures 68 mm in diameter and 20 mm in thickness. This is completely surrounded by a high-grade silicone rubber gasket measuring 72 mm in diameter, which forcefully locks the mug to guarantee it remains completely airtight and leak-proof.
 
-| Silicone Gasket Seal Assembly |
-| :---: |
-| ![Silicone Gasket Seal](assets/gasket-seal.png) |
+<div align="center">
+  <img src="assets/gasket-seal.png" alt="Silicone Gasket Seal">
+  <br>
+  <em>Silicone Gasket Seal Assembly</em>
+</div>
 
 ---
 
 ## 5. Thermal Performance & Thread Design
 The core functionality of the OmniSip relies on advanced thermodynamics and secure mechanical sealing. The double-walled vacuum insulation ensures that internal beverages remain isolated from external ambient temperatures. The system is engineered and tested to maintain beverage temperatures for a minimum of 6 hours for hot liquids and up to 12 hours for cold liquids. The lid features engineered threads that align perfectly with corresponding ridges on the rim of the mug, creating a tight interlocking seal when twisted.
 
-| Internal Thermodynamics and Double-Walled Insulation |
-| :---: |
-| ![Internal Thermals](assets/internal-thermals.png) |
+<div align="center">
+  <img src="assets/internal-thermals.png" alt="Internal Thermals">
+  <br>
+  <em>Internal Thermodynamics and Double-Walled Insulation</em>
+</div>
 
 ---
 
